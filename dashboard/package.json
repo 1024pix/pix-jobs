@@ -1,0 +1,15 @@
+{
+    "name": "pix-jobs-dashboard",
+    "version": "1.0.0",
+    "description": "Admin interface for Pix jobs - based on pg-boss/dashboard",
+    "homepage": "https://github.com/1024pix/pix#readme",
+    "license": "AGPL-3.0",
+    "author": "GIP Pix",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node node_modules/@pg-boss/dashboard/build/server/index.js"
+    },
+    "dependencies": {
+        "@pg-boss/dashboard": "^1.1.3"
+    }
+}
