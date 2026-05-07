@@ -6,6 +6,9 @@
     "license": "AGPL-3.0",
     "author": "GIP Pix",
     "type": "commonjs",
+    "engines": {
+        "node": "24.13.0"
+    },
     "scripts": {
         "start": "node node_modules/@pg-boss/dashboard/build/server/index.js"
     },
