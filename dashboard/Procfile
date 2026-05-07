@@ -1,1 +1,1 @@
-web: /app/bin/start_with_oauth2_proxy.sh exec node node_modules/@pg-boss/dashboard/build/server/index.js
+web: cd node_modules/@pg-boss/dashboard && /app/bin/start_with_oauth2_proxy.sh exec node ./build/server/index.js
