@@ -16,7 +16,7 @@ jobs:
 
             - uses: actions/setup-node@v4
               with:
-                  node-version-file: 'package.json'
+                  node-version-file: 'dashboard/package.json'
 
             - uses: 1024pix/pix-actions/release@main
               id: semantic
