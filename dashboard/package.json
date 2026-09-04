@@ -10,7 +10,7 @@
         "node": "24.16.0"
     },
     "scripts": {
-        "start": "node node_modules/@pg-boss/dashboard/build/server/index.js"
+        "start": "node node_modules/@pg-boss/dashboard/build/server.js"
     },
     "dependencies": {
         "@pg-boss/dashboard": "^1.6.7"
