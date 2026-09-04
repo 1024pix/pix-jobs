@@ -13,6 +13,6 @@
         "start": "node node_modules/@pg-boss/dashboard/build/server/index.js"
     },
     "dependencies": {
-        "@pg-boss/dashboard": "^1.1.3"
+        "@pg-boss/dashboard": "^1.6.7"
     }
 }
