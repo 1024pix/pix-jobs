@@ -7,7 +7,7 @@
     "author": "GIP Pix",
     "type": "commonjs",
     "engines": {
-        "node": "24.22.2"
+        "node": "26.13.0"
     },
     "scripts": {
         "start": "node node_modules/@pg-boss/dashboard/build/server.js"
